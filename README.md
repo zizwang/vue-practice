@@ -1,5 +1,3 @@
+    $ yarn install
+<!-- -->
     $ yarn serve
-    
-or
-    
-    $ npm run serve
