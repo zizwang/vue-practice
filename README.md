@@ -1,5 +1,5 @@
     $ yarn serve
     
-    or
+or
     
     $ npm run serve
